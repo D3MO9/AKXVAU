@@ -1,6 +1,18 @@
+<style>
+.spinner{
+  animation-name:spinner;
+  animation-timing-function:linear;
+  animation-iteration-count:infinite;
+  animation-duration:7s;
+  transform-style:preserve-3d}@keyframes spinner{from{transform:rotateY(0)}to{transform:rotateY(-360deg)}}.face{position:absolute;
+  width:100%;height:100%;backface-visibility:hidden}xxx {
+  display: block;
+}
+</style>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=15&lines=Assalamualaikum+guys%2C+I+am+Mohammad+Alamin.;I+am+just+trying+to+learn+programming.)](https://github.com/AKXVAU)
 <br>
-<img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/AKXVAU.png" width="120" height="120" align="left">
+<img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/AKXVAU.png" class="spinner" width="120" height="120" align="left">
 <center>
    ## MY SOCIAL MEDIA<br>
    <a href="https://www.facebook.com/AK27X69" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/fb.png" alt="alt text" width="25" height="25"></a>
@@ -9,7 +21,7 @@
 </a><a href="https://Instagram.com/AKXVAU" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/insta.png" alt="alt text" width="25" height="25"></a>
  <a href="https://twitter.com/AKXVAU" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/twit.png" alt="alt text" width="25" height="25"></a>
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
- <br><br>
+ <br><br><hr>
 Contact With Me: <a href="https://FACEBOOK.com/AKXVAU"><b>Mohammad Alamin</a><br><br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/mail.png" width="25" height="25">  <a href = "mailto: admin@ak27x.ml">Send Email</a><br><br>
