@@ -19,7 +19,7 @@ Contact With Me: <a href="https://FACEBOOK.com/AKXVAU"><b>Mohammad Alamin</a><br
 ![AK27X stats](https://github-readme-stats.vercel.app/api?username=AKXVAU&show_icons=true&theme=dark)
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKXVAU&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKXVAU&layout=compact&theme=dark)
 
 <br>
 
