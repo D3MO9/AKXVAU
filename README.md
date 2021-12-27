@@ -16,7 +16,7 @@ Contact With Me: <a href="https://FACEBOOK.com/AKXVAU"><b>Mohammad Alamin</a><br
 <img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/mail.png" width="25" height="25">  <a href = "mailto: admin@ak27x.ml">Send Email</a><br><br>
 </p>
 
-![AK27X stats](https://github-readme-stats.vercel.app/api?username=AKXVAU&show_icons=true&theme=white)
+![AK27X stats](https://github-readme-stats.vercel.app/api?username=AKXVAU&show_icons=true&theme=dark)
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKXVAU&layout=compact)
