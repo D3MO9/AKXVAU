@@ -1,18 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=15&lines=Assalamualaikum+guys%2C+I+am+Mohammad+Alamin.;I+am+just+trying+to+learn+programming.)](https://github.com/AKXVAU)
 <br>
 
-<style>
-.spinner{
-  animation-name:spinner;
-  animation-timing-function:linear;
-  animation-iteration-count:infinite;
-  animation-duration:7s;
-  transform-style:preserve-3d}@keyframes spinner{from{transform:rotateY(0)}to{transform:rotateY(-360deg)}}.face{position:absolute;
-  width:100%;height:100%;backface-visibility:hidden}xxx {
-  display: block;
-}
-</style>
-
 <img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/AKXVAU.png" class="spinner" width="120" height="120" align="left">
 <center>
    ## MY SOCIAL MEDIA<br>
