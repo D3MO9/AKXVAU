@@ -11,12 +11,13 @@
  <a href="https://twitter.com/AKXVAU" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/twit.png" alt="alt text" width="25" height="25"></a>
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
  <br><br><hr>
-Contact With Me: <a href="https://FACEBOOK.com/AKXVAU"><b>Mohammad Alamin</a><br><br>
+<duv align="center">Contact With Me: <a href="https://FACEBOOK.com/AKXVAU"><b>Mohammad Alamin</a><br><br></div>
 <p align="center">
 <img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/mail.png" width="25" height="25">  <a href = "mailto: admin@ak27x.ml">Send Email</a><br><br>
 </p><br>
 ## MY INFORMATIONS
 <img align="center" src="https://metrics.lecoq.io/AKXVAU">
+
 ![AK27X stats](https://github-readme-stats.vercel.app/api?username=AKXVAU&show_icons=true&theme=dark)
 <br>
 
