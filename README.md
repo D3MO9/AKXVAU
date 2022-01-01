@@ -11,7 +11,7 @@
  <a href="https://twitter.com/AKXVAU" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/twit.png" alt="alt text" width="25" height="25"></a>
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
  <br><br><hr>
-<duv align="center">Contact With Me: <a href="https://FACEBOOK.com/AKXVAU"><b>Mohammad Alamin</a><br><br></div>
+<div align="center">Contact With Me: <a href="https://FACEBOOK.com/AKXVAU"><b>Mohammad Alamin</a><br><br></div>
 <p align="center">
 <img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/mail.png" width="25" height="25">  <a href = "mailto: admin@h2ck3r.ml">Send Email</a><br><br>
 </p><br>
